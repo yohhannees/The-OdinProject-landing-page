@@ -207,3 +207,14 @@ font-family:'Times New Roman', Times, serif;
 font-size: 22px;
 
 }
+.hov
+{
+
+    font-size: x-large;
+}
+
+.hov:hover
+{
+    font-size: xx-large;
+    
+}
