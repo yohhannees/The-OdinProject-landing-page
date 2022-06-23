@@ -3,6 +3,7 @@ body{
     flex-direction: column;
     align-items: center;
     font-family: sans-serif;
+    background-color: black;
 }
 
 .first{
@@ -17,25 +18,26 @@ body{
     display: flex;
     flex-direction: column;
     width: 100%;
-    background-color: #1e2937;
+    background-color: #272829;
     padding-left: 60px;
     padding-bottom: 30px;
 }
 
 .big{
     font-size: 48px;
-    color: #f9faf8;
+    color: #fdfdfd;
     font-weight: bold;
 }
 
 .sec{
     font-size: 18px;
-    color: #e5e7eb;
+    color: #ffffff;
+    font-weight: bolder;
 }
 
 .topic{
     font-size: 36px;
-    color: #1f2937;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -52,8 +54,9 @@ ul{
 
 a{
     text-decoration: none;
-    color: #f9faf8;
+    color: #ffffff;
     padding-right: 20px;
+    font-weight: bolder;
     
 }
 
@@ -90,13 +93,13 @@ a{
     height: 100px;
     margin-right: 70px;
     margin-bottom: 70px;
-    color: #1f2937;
+    color: #964e4e;
 }
 
 .logo{
     height: 200px;
     width: 200px;
-    border-radius: 250px;
+    border-radius: px;
 }
 
 .dominant{
@@ -108,14 +111,15 @@ a{
 .pic{
     height: 200px;
     width: 200px;
-    border: solid 5px #3882f6;
-    border-radius: 30px;
+    border: solid 5px #ffffff;
+    border-radius: 15px;
+   
 }
 
 .enzo{
     display: flex;
     flex-direction: column;
-    background-color: #e5e7eb;
+    background-color: #272829;
     align-items: center;
     justify-content: center;
     padding: 50px;
@@ -125,7 +129,7 @@ a{
 .enzo .a{
     font-size: 36px;
     margin-bottom: 70px;
-    color: #1f2937;
+    color: #ffffff;
     font-style: italic;
 }
 
@@ -144,7 +148,7 @@ a{
     margin-left: 20px;
     gap: 40px;
     margin-bottom: 150px;
-    background-color: #3882f6;
+    background-color: #272829;
     border-radius: 15px;
     padding: 16px;
 }
@@ -164,9 +168,10 @@ a{
     position: fixed;
     bottom: 0px;
     width: 100%;
-    background-color: #1e2937;
-    color: #f9faf8;
+    background-color: #272829;
+    color: #ffffff;
     height: 80px;
+    font-weight:900;
 }
 
 button{
@@ -192,7 +197,7 @@ button{
 }
 .price
 {
-color:black;
+color:rgb(255, 255, 255);
 font-weight: bolder;
 font-family:'Times New Roman', Times, serif;
 
