@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.first{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    margin-bottom: 10px;
+    padding-top: 20px;
+}
+
+.bg{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #1e2937;
+    padding-left: 60px;
+    padding-bottom: 30px;
+}
+
+.big{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.sec{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.topic{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bold;
+}
