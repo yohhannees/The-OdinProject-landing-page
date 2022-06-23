@@ -85,3 +85,54 @@ a{
     justify-content: space-around;
     
 }
+.box{
+    width: 200px;
+    height: 100px;
+    margin-right: 70px;
+    margin-bottom: 70px;
+    color: #1f2937;
+}
+
+.logo{
+    height: 200px;
+    width: 200px;
+    border-radius: 250px;
+}
+
+.dominant{
+    height: 250px;
+    width: 500px;
+    max-width: 100%;
+}
+
+.pic{
+    height: 200px;
+    width: 200px;
+    border: solid 5px #3882f6;
+    border-radius: 30px;
+}
+
+.enzo{
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    margin-bottom: 100px;
+}
+
+.enzo .a{
+    font-size: 36px;
+    margin-bottom: 70px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.b{
+    align-self: flex-end;
+    margin-right: 90px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -40px;
+}
