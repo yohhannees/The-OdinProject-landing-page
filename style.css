@@ -170,7 +170,7 @@ a{
 }
 
 button{
-    background-color: #3882f6;
+    background-color: #a10e0e;
     height: 35px;
     width: 100px;
     border: 2px solid white;
@@ -179,14 +179,21 @@ button{
 }
 
 .tag{
-    background-color: #3882f6;
+    background-color: #a10e0e;
     height: 35px;
     width: 100px;
-    border: 4px solid #3882f6;
+    border: 4px solid #fcfcfc;
     border-radius: 10px;
 }
 
 .toy{
     font-weight: bold;
     font-size: 20px;
+}
+.price
+{
+color:black;
+font-weight: bolder;
+font-family:'Times New Roman', Times, serif;
+
 }
