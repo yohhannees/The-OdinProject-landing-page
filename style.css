@@ -100,12 +100,16 @@ a{
     height: 200px;
     width: 200px;
     border-radius: 250px;
+    border: solid 5px #ffffff;
 }
 
 .dominant{
-    height: 250px;
-    width: 500px;
-    max-width: 100%;
+    height: 300px;
+    width: 600px;
+    margin-bottom: 80px;
+    border: solid 5px #ffffff;
+  
+    border-radius: 50px;
 }
 
 .pic{
@@ -200,5 +204,6 @@ button{
 color:rgb(255, 255, 255);
 font-weight: bolder;
 font-family:'Times New Roman', Times, serif;
+font-size: 22px;
 
 }
