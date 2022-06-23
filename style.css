@@ -38,3 +38,50 @@ body{
     color: #1f2937;
     font-weight: bold;
 }
+
+.links{
+    display: flex;
+    margin-left: 55%;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    gap: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: #f9faf8;
+    padding-right: 20px;
+    
+}
+
+.second{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    align-items: center;
+    padding: 15px;
+}
+
+.wazo{
+    margin-right: 20%;
+    width: 400px;
+}
+
+.third{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    gap: 10px;
+    margin-bottom: 250px;
+    margin-top: 30px;
+}
+
+.cars{
+    display: flex;
+    justify-content: space-around;
+    
+}
