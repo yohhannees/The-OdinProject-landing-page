@@ -134,7 +134,7 @@ a{
     font-size: 36px;
     margin-bottom: 70px;
     color: #ffffff;
-    font-style: italic;
+    
 }
 
 .b{
@@ -142,6 +142,7 @@ a{
     margin-right: 90px;
     font-weight: bold;
     font-size: 20px;
+    color: #f9faf8;
     margin-top: -40px;
 }
 .fourth{
