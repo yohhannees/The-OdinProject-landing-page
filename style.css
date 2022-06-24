@@ -220,3 +220,11 @@ padding
     font-size: xx-large;
     
 }
+.sign:hover
+{
+font-size: xx-large;
+}
+button:hover
+{
+font-size: medium;
+}
